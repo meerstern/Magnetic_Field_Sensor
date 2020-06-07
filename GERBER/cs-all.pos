@@ -1,0 +1,19 @@
+### Module positions - created on 2020/05/17 13:32:39 ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                                               PosX       PosY       Rot  Side
+C1        0.1u      C_0603_1608Metric                                 177.1500   -83.6380  270.0000  top
+C2        0.1u      C_0603_1608Metric                                 177.1500   -80.4120   90.0000  top
+R1        0         R_0603_1608Metric                                 182.3120   -77.0500  180.0000  top
+R2        0         R_0603_1608Metric                                 185.5380   -77.0750    0.0000  top
+R3        0         R_0603_1608Metric                                 187.1000   -83.3380   90.0000  top
+R4        0         R_0603_1608Metric                                 175.9000   -77.0000  180.0000  top
+R5        10k       R_0603_1608Metric                                 187.8380   -85.7750  180.0000  top
+R6        10k       R_0603_1608Metric                                 187.8380   -87.5000  180.0000  top
+RS1       32        R_0805_2012Metric                                 180.5380   -86.2500  180.0000  top
+RX1       0         R_0603_1608Metric                                 179.1250   -77.0500  180.0000  top
+RX2       0         R_0603_1608Metric                                 188.7380   -77.0750    0.0000  top
+RX3       0         R_0603_1608Metric                                 187.1000   -80.1620   90.0000  top
+U1        DRV425    QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias   182.0000   -82.0000  270.0000  top
+## End

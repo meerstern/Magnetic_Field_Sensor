@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ti_hole_element)(type Legacy)(uri ${KIPRJMOD}/ti_hole_element.lib)(options "")(descr ""))
+  (lib (name DRV425)(type Legacy)(uri ${KIPRJMOD}/DRV425.lib)(options "")(descr ""))
+)
